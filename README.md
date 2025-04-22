@@ -34,7 +34,6 @@ Based on a deep dialogue with GPT-4, I propose a 3-part solution:
 
 I'm not a full-time AI engineer — I'm a thinker, a builder, a future designer. This repo is part of my learning and visibility journey.
 
-This is where ideas and systems meet creativity and structure.
 
 ---
 
