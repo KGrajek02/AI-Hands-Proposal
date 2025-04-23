@@ -29,6 +29,12 @@ Based on a deep dialogue with GPT-4, I propose a 3-part solution:
    - Merge pattern-based generation with symbolic rules (e.g. skeletal rig, bone count, joint rules)
 
 ---
+### 🧩 System Flow Diagrams
+
+Here’s a visual comparison between current AI image generation behavior and a proposed improved structure.
+
+![AI Hand Flow](./Diagram.png)
+
 
 ## 🛠️ What This Shows
 
