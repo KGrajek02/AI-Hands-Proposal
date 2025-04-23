@@ -36,9 +36,12 @@ Here’s a visual comparison between current AI image generation behavior and a 
 ![AI Hand Flow](./Diagram.png)
 
 
-## 🛠️ What This Shows
+### 🧭 Purpose of This Repository
 
-I'm not a full-time AI engineer — I'm a thinker, a builder, a future designer. This repo is part of my learning and visibility journey.
+This project explores a common flaw in generative AI — inaccurate human hand rendering — and proposes a structured improvement using pose estimation, visual logic, and symbolic rules.
+
+It’s part of my ongoing learning in AI-human interaction, system design, and interface thinking.
+
 
 
 ---
