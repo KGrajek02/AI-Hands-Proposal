@@ -38,9 +38,9 @@ Here’s a visual comparison between current AI image generation behavior and a 
 
 ### 🧭 Purpose of This Repository
 
-This project explores a common flaw in generative AI — inaccurate human hand rendering — and proposes a structured improvement using pose estimation, visual logic, and symbolic rules.
+This is a learning-driven exploration of how generative image models can be improved by integrating structural priors, symbolic rules, and 3D pose awareness.
 
-It’s part of my ongoing learning in AI-human interaction, system design, and interface thinking.
+The goal is to propose actionable, low-level improvements — not as an academic paper, but as a system concept anyone building creative AI tools could apply.
 
 
 
